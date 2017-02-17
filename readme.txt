@@ -1,0 +1,1 @@
+All these python codes are written with CodeSkulptor. If you try to run it please go to codeskulptor.org and paste the codes there.
